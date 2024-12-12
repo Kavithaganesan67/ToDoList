@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(36, 36, 124);
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+#box1{
+    background-color:whitesmoke;
+    color: white;
+    width: 500px;
+    margin: 325px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+   
+}
+button{
+    background-color:rgb(36, 36, 124) ;
+    color: aliceblue;
+}
+#listitem{
+    color: brown;
+    margin-left: 130px;
+}
+input{
+    margin-top: 25px;
+    margin-left: 130px;
+   
+}
